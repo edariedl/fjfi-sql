@@ -4,3 +4,5 @@
 
 ## Seznam přednášek
 
+- [1. přednáška](https://github.com/edariedl/fjfi-sql/blob/master/lectures/01.md)
+- [2. přednáška](https://github.com/edariedl/fjfi-sql/blob/master/lectures/02.md)
